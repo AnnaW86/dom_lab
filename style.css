@@ -1,0 +1,22 @@
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+.pink-div {
+    background-color: pink;
+    border: 1px solid black;
+}
+
+.list-heading {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+li {
+    color: purple;
+}
+
